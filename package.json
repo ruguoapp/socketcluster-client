@@ -1,7 +1,7 @@
 {
-  "name": "socketcluster-client",
+  "name": "@rugupapp/socketcluster-client",
   "description": "SocketCluster JavaScript client",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "homepage": "http://socketcluster.io",
   "contributors": [
     {
